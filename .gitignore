@@ -1,0 +1,19 @@
+# 编译与安装包
+/build/
+/dist/
+/out/
+/CMakeUserPresets.json
+
+# 本机版本备份与录像
+/backups/
+*.mp4
+*.mkv
+
+# Visual Studio、VS Code 与 Windows
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.VC.db
+Thumbs.db
+Desktop.ini
